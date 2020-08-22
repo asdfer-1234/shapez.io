@@ -68,7 +68,7 @@ steamPage:
             [*] 그 외 다수!
         [/list]
 
-        [b]이 게임은 오픈소스 입니다![/b]
+        [b]이 게임은 오픈 소스 입니다![/b]
 
         누구나 참여할 수 있으며, 저는 커뮤니티에 적극적으로 참여하고 있고 가능한 경우 모든 제안을 검토하고 피드백을 고려하려고 합니다.
         전체 로드맵을 위해 반드시 내 Trello 보드를 확인하세요!
@@ -86,8 +86,8 @@ steamPage:
     discordLink: 공식 디스코드 - 채팅해요!
 
 global:
-    loading: 로딩중
-    error: 에러
+    loading: 로드중
+    error: 오류
 
     # How big numbers are rendered, e.g. "10,000"
     thousandsDivider: ","
